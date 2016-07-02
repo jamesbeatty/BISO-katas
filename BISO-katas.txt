@@ -1,0 +1,33 @@
+1. Lessons learned from dojo sprint
+2. Column SLA (kanban)
+3. High Priority/visibility iRAPs
+4. Generating Backlog for other teams
+	a. IPR and non-IPR
+5. Collecting Metrics for our Process (Brandon)
+6. Build IRAP metric store
+7. Collect stories to develop Concierge Service
+8. Create BISO Service List (future "catalog")
+9. Develop timing method / track IPR timing
+10. Sticky Note 2.0
+11. IPR mechanics improvements
+12. Create Nhiagram Feedback model
+13. BISO Communications and training content
+14. Integrate Maturity Model into our process
+15. Integrate Enterprise Risk-based service into our process
+	a. Develop basic portfolio/product risk ranking
+	b. Internal placeholder until IRM delivers
+16. Input BISO backlog into Jira
+17. Add any back of board items missing here:
+18. Clark's dojo diagram - BISO Process Model
+	a. Refine Team Relational Sequence
+19. Pyramid/Portfolio/Product Risk Inventory
+20. Product Security Training (backlog) to help business develop IRAP artifacts
+21. Pre-defined security patterns (i.e. f/w rules) and CW Reference Architecture
+22. "Bag of Holding" Pre-scoping + Post-Engagement (check in / check out IRAPs)
+23. Vendor Assessment (RFP, IoT Approved List, Dedicated Vendor.Security partners per portfolio?)
+24. IPR 2.0 (James diagram)
+25. Adopt Privacy team practice of taking at least one action per week on each IPR and updating activity log
+26. Alignment on when requirements are validated pre-PROD
+27. “Limit WIP”
+28. Portfolio Org Chart
+29. Consumable requirements in Git.
